@@ -105,13 +105,13 @@ Student-Score-Predictor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/student-score-predictor.git
+git clone https://github.com/YashChandiramani/Student_Score_Prediction_ML_Project.git
 ```
 
 ### 2. Navigate to Project Folder
 
 ```bash
-cd student-score-predictor
+cd Student_Score_Prediction_ML_Project
 ```
 
 ### 3. Create Virtual Environment (Optional)
